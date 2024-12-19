@@ -8,12 +8,12 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    description: 'A modern e-commerce platform built with Vue.js and Node.js',
-    image: "src/Screenshot_6-12-2024_115720_content-theta-eight.vercel.app.jpeg",
-    tags: ['Vue.js', 'Node.js', 'Bootstrap'],
-    liveUrl: 'https://content-theta-eight.vercel.app/',
-    githubUrl: 'https://github.com/PAPAT16/Content',
+    title: 'Showroom',
+    description: 'A modern showroom built with React and Node.js',
+    image: "src/Screenshot_19-12-2024_155848_project-omega-gules.vercel.app.jpeg",
+    tags: ['React', 'Node.js', 'TypeScript', 'Tailwind CSS'],
+    liveUrl: 'https://project-ig1yb8j7d-papats-projects.vercel.app/',
+    githubUrl: 'https://github.com/PAPAT16/project',
   },
   {
     title: 'Task Management App',

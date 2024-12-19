@@ -21,7 +21,7 @@ export function ProfileImage() {
           <Card className="overflow-hidden bg-gradient-to-b from-background/50 to-background p-4 md:p-6">
             <figure className="relative aspect-square overflow-hidden rounded-lg">
               <img
-                src="src/IMG-20240926-WA0006.jpg"
+                src="/src/IMG-20240926-WA0006.jpg"
                 alt="Professional portrait of a developer wearing a blue and white chevron pattern shirt"
                 className="object-cover w-full h-full"
               />
